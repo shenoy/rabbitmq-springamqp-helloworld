@@ -1,0 +1,5 @@
+com\rabbitmqamqpsender\RabbitmqAmqpSenderApplication.class
+com\rabbitmqamqpsender\RabbitAmqpTutorialsRunner.class
+com\rabbitmqamqpsender\Tut1Receiver.class
+com\rabbitmqamqpsender\Tut1Config.class
+com\rabbitmqamqpsender\Tut1Sender.class
